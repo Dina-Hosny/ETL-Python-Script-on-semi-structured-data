@@ -1,4 +1,4 @@
-# ETL-Python-Script
+# ETL Python Script in semi-structured data
 An ETL Python Script that performs the ETL process of JSON Data, transforms it to DataFrame, then loads it into CSV files.
 
 ## Project Description:
@@ -40,3 +40,10 @@ The output CSV files have the following columns:
 - ```time_zone``` The time zone that the city follow.
 - ```time_in``` Time when the request started.
 - ```time_out``` Time when the request is ended.
+
+## Tools and Technologies:
+- Python 
+- Pandas
+- NumPy
+- Jupyter Notebook
+- JSON
