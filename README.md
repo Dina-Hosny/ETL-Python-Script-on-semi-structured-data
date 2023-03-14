@@ -5,13 +5,13 @@ An ETL Python Script that performs the ETL process of JSON Data, transforms it t
 A script that transforms the JSON files to a DataFrame and commits each file to a separate CSV file in the target directory.
 
 The Script does the following:
-Reads JSON file from a directory using positional specific argument.
-Extracts the data, cleans, and transforms it.
-Checks if the files have any duplicates and remove them.
-Uses the optional argument "-u" to maintain the UNIX format for the timestamp. 
-Prints a message after converting each file with the number of rows transformed and the path of the file.
-Creates CSV files that contain the final output in a CSV format.
-Prints the total execution time.
+- Reads JSON file from a directory using positional specific argument.
+- Extracts the data, cleans, and transforms it.
+- Checks if the files have any duplicates and remove them.
+- Uses the optional argument "-u" to maintain the UNIX format for the timestamp. 
+- Prints a message after converting each file with the number of rows transformed and the path of the file.
+- Creates CSV files that contain the final output in a CSV format.
+- Prints the total execution time.
 
 ## Problem Description:
 
