@@ -19,14 +19,14 @@ In 2012, URL shortening service Bitly partnered with the US government website U
 
 The text file comes in JSON format and with some keys and their description. 
 
-```a``` Denotes information about the web browser and operating system.
-```tz``` time zone.
-```r``` URL the user come from.
-```u``` URL where the user headed to.
-```t``` Timestamp when the user start using the website in UNIX format.
-```hc``` Timestamp when user exit the website in UNIX format.
-```cy``` City from which the request intiated.
-```ll``` Longitude and Latitude.
+- ```a``` Denotes information about the web browser and operating system.
+- ```tz``` time zone.
+- ```r``` URL the user come from.
+- ```u``` URL where the user headed to.
+- ```t``` Timestamp when the user start using the website in UNIX format.
+- ```hc``` Timestamp when user exit the website in UNIX format.
+- ```cy``` City from which the request intiated.
+- ```ll``` Longitude and Latitude.
 
 The output CSV files have the following columns:
 
