@@ -1,0 +1,13 @@
+,web_browser,operating_sys,from_url,to_url,city,longitude,latitude,time_zone,time_in,time_out
+0,Mozilla,Windows NT 6.1,www.facebook.com,www.ncbi.nlm.nih.gov,Danvers,42.576698,-70.954903,America/New_York,2012-04-01 21:03:50,2012-04-01 21:03:57
+1,External Program,Unknown,www.AwareMap.com,www.monroecounty.gov,Provo,40.218102,-111.613297,America/Denver,2012-03-16 20:40:49,2011-06-17 00:13:13
+2,Mozilla,Windows NT 6.1,t.co,boxer.senate.gov,Washington,38.9007,-77.043098,America/New_York,2012-04-03 00:50:30,2012-04-03 00:50:35
+3,Mozilla,Macintosh,Direct,apod.nasa.gov,Braz,-23.549999,-46.616699,America/Sao_Paulo,2012-04-04 04:37:10,2012-04-04 04:37:24
+4,Mozilla,Windows NT 6.1,www.shrewsbury-ma.gov,www.shrewsbury-ma.gov,Shrewsbury,42.286499,-71.714699,America/New_York,2012-04-05 08:23:50,2012-04-05 08:23:59
+5,Mozilla,Windows NT 6.1,www.shrewsbury-ma.gov,www.shrewsbury-ma.gov,Shrewsbury,42.286499,-71.714699,America/New_York,2012-04-06 12:10:30,2012-04-06 12:10:48
+6,Mozilla,Windows NT 5.1,plus.url.google.com,www.nasa.gov,Luban,51.116699,15.2833,Europe/Warsaw,2012-04-07 15:57:10,2012-04-07 15:57:20
+7,Mozilla,Windows NT 6.1,www.facebook.com,www.nasa.gov,Unknown,Not Detected,Not Detected,Unknown,2012-04-09 23:30:36,2392-09-24 01:06:04
+8,Opera,Ubuntu 14.04.6,www.facebook.com,www.nasa.gov,Unknown,Not Detected,Not Detected,Unknown,2012-04-08 19:43:50,2012-04-08 19:44:02
+9,Mozilla,Windows NT 6.1,t.co,apod.nasa.gov,Unknown,Not Detected,Not Detected,Unknown,2012-04-09 23:30:30,2012-04-09 23:30:40
+10,Mozilla,Windows NT 6.1,Direct,www.nysdot.gov,Seattle,47.5951,-122.332603,America/Los_Angeles,2012-04-11 03:17:10,2012-04-11 03:17:20
+11,Mozilla,Macintosh,t.co,oversight.house.gov,Washington,38.937599,-77.092796,America/New_York,2012-04-12 07:04:00,2012-04-12 07:04:03
