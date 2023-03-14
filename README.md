@@ -30,23 +30,13 @@ The text file comes in JSON format and with some keys and their description.
 
 The output CSV files have the following columns:
 
-- web_browser
-        The web browser that has requested the service.
-- operating_sys
-        operating system that intiated this request.
-- from_url
-	The main URL the user came from in a short format.
-- to_url
-	The main URL the user went to in a short format.  
-- city
-	The city from which the the request was sent.
-- longitude
-       The longitude where the request was sent.
-- latitude
-        The latitude where the request was sent.
-- time_zone
-        The time zone that the city follow.
-- time_in
-        Time when the request started.
-- time_out
-        Time when the request is ended.
+- ```web_browser``` The web browser that has requested the service.
+- ```operating_sys``` operating system that intiated this request.
+- ```from_url``` The main URL the user came from in a short format.
+- ```to_url``` The main URL the user went to in a short format.  
+- ```city``` The city from which the the request was sent.
+- ```longitude``` The longitude where the request was sent.
+- ```latitude``` The latitude where the request was sent.
+- ```time_zone``` The time zone that the city follow.
+- ```time_in``` Time when the request started.
+- ```time_out``` Time when the request is ended.
